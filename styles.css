@@ -1,0 +1,20 @@
+div {
+  margin: 25px;
+  border: 2px outset grey;
+  background-color: white;
+}
+body {
+  background-image: url('MainBackground.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  font-family:Oblivion;
+  font-size: 80%;
+}
+p {
+  margin: 35px;
+}
+@font-face {
+  font-family:"Oblivion";
+  src: url("oblivionfont.ttf") format("truetype");
+}
