@@ -1,7 +1,7 @@
 div {
   margin: 25px;
   border: 2px outset black;
-  background-color: #404040;
+  background-color: rgba(25, 25, 25, 0.5);
 }
 body {
   background-image: url('MainBackground.jpg');
