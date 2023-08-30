@@ -1,7 +1,7 @@
 div {
   margin: 25px;
-  border: 2px outset grey;
-  background-color: white;
+  border: 2px outset black;
+  background-color: #404040;
 }
 body {
   background-image: url('MainBackground.jpg');
@@ -13,6 +13,7 @@ body {
 }
 p {
   margin: 35px;
+  color:#00ab47;
 }
 @font-face {
   font-family:"Oblivion";
